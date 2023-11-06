@@ -1,22 +1,10 @@
 ### Hi there 👋
 
-### 🔷 OS
 
-<div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
-</div>
-
-### 🔷 Development tools
 <div>
   
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">	
-
-</div>
-
-
-### 🔷 Skills
-<div>
-
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
@@ -29,14 +17,13 @@
 
 </div>
   
-### 🔷 Team Communication
+
 <div>
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
 </div>
 
-### 🔷 Presentation
 
  <div>
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
