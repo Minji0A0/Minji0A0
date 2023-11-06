@@ -1,8 +1,8 @@
 
 <div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=40&pause=1000&color=E481FF&center=%EA%B1%B0%EC%A7%93&vCenter=%EA%B1%B0%EC%A7%93&repeat=%EC%A7%84%EC%8B%A4&random=%EA%B1%B0%EC%A7%93&width=600&height=100&lines=Today+is+a+goodday!+I'm+Minji+%E2%99%A1;Today+like+yesterday%2C+Tomorrow+like+today." alt="Typing SVG" /></a>
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=50&pause=1000&color=E481FF&random=false&width=1000&height=100&lines=Goodday!+I'm+Minji+😆+It's+me!+;Today+like+yesterday%2C++Tomorrow+like+today.😎" alt="Typing SVG" /></a>
+
 </div>
 
 
