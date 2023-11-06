@@ -5,6 +5,10 @@
 
 </div>
 
+## 💖Who am I?
+
+#### Name : 조민지
+#### Email : honnetechat@gmail.com 
 
 
 ## 💗 So far
