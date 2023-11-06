@@ -3,6 +3,8 @@
 
 <div>
 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
+
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=React&logoColor=white" alt="javascript">
