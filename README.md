@@ -2,6 +2,28 @@
 
 
 <div>
+
+  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=React&logoColor=white" alt="javascript">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=React&logoColor=white" alt="jquery">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=React&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=React&logoColor=white" alt="github">  
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=React&logoColor=white" alt="apachetomcat">  
+  <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=React&logoColor=white" alt="openjdk">  
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="spring">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="springboot">
+
+
+
+   
+  
+
+</div>
+
+<div>
+
   
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="image" style="height: 20px; border-radius: 40px;">	
