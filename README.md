@@ -66,11 +66,8 @@
 </div>
 
 ## 📖 Studying
-
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=intellijidea&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=intellijidea&logoColor=white" alt="python">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="springboot">
-  
-
 ## 📚 Learning plan
 
 <div>
