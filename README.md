@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=intellijidea&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=intellijidea&logoColor=white" alt="Java">
     
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=intellijidea&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=intellijidea&logoColor=white" alt="CSS3">
@@ -67,7 +66,10 @@
 </div>
 
 ## 📖 Studying
+
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=intellijidea&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="springboot">
+  
 
 ## 📚 Learning plan
 
