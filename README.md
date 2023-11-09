@@ -18,6 +18,11 @@
 
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="eclipseide">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="intellijidea">
+
+</div>
+
+<div>
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=white" alt="Java">
     
@@ -37,8 +42,6 @@
   <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk&logoColor=white" alt="openjdk">  
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react">
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white" alt="apachetomcat">  
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="github">  
 
 </div>
 
@@ -60,6 +63,8 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=Discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google_Cloud">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="github">  
 
 </div>
 
