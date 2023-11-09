@@ -8,7 +8,8 @@
 ## 💖Who am I?
 
 *  Name : 조민지
-*  Email : honnetechat@gmail.com 
+*  Email : honnetechat@gmail.com
+*  blog : honnetechat.tistory.com
 *  Portfolio : https://github.com/Minji0A0/JJAPKOREA
 
 ## 💗 So far
