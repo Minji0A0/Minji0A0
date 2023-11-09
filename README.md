@@ -14,13 +14,12 @@
 ## 💗 So far
 
 <div>
-  
   <img src="https://img.shields.io/badge/windows-0078D4?style=flat&logo=windows&logoColor=white" alt="windows">
 
-  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="intellijidea">
+  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="eclipseide">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=javascript&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=Java&logoColor=white" alt="Java">
     
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
