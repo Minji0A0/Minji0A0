@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="intellijidea">
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" alt="intellijidea">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=intellijidea&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=javascript&logoColor=white" alt="Java">
     
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
@@ -45,8 +45,8 @@
 
 <div>
 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=Microsoft_Excel&logoColor=white" alt="Microsoft_Excel">
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=Microsoft_PowerPoint&logoColor=white" alt="Microsoft_PowerPoint">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Microsoft_Excel">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft_PowerPoint">
 
 
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white" alt="AdobePhotoshop">
@@ -60,7 +60,7 @@
   
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=Discord&logoColor=white" alt="Discord">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" alt="Notion">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=Google_Cloud&logoColor=white" alt="Google_Cloud">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google_Cloud">
 
 </div>
 
